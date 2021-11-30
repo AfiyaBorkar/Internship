@@ -1,2 +1,0 @@
-# GEOGO Internship
-Resume
