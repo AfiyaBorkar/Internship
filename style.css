@@ -29,7 +29,7 @@ body{
     display: grid;
     grid-template-columns: 1fr 3fr;
     border: 2px solid;
-    overflow: auto;
+ 
   
 }
 
@@ -37,7 +37,7 @@ body{
     position: relative;
     padding:0;
     padding: 40px;
-    overflow: auto;
+    
 }
 
 .container .right_cont{
